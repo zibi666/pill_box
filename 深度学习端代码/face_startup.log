@@ -1,0 +1,590 @@
+2026-04-26 19:06:23 python=E:\conda_env\deep_learning\python.exe
+2026-04-26 19:06:23 sys.prefix=E:\conda_env\deep_learning
+2026-04-26 19:06:23 CONDA_PREFIX=E:\Anaconda3
+2026-04-26 19:06:23 dll_dir=E:\conda_env\deep_learning\Library\bin
+2026-04-26 19:06:23 before import cv2
+2026-04-26 19:06:24 after import cv2
+2026-04-26 19:06:24 before import numpy
+2026-04-26 19:06:24 after import numpy
+2026-04-26 19:06:24 before import face_recognition
+2026-04-26 19:06:25 after import face_recognition
+2026-04-26 19:09:53 python=E:\conda_env\deep_learning\python.exe
+2026-04-26 19:09:53 sys.prefix=E:\conda_env\deep_learning
+2026-04-26 19:09:53 CONDA_PREFIX=E:\Anaconda3
+2026-04-26 19:09:53 dll_dir=E:\conda_env\deep_learning
+2026-04-26 19:09:53 dll_dir=E:\conda_env\deep_learning\Scripts
+2026-04-26 19:09:53 dll_dir=E:\conda_env\deep_learning\Library\bin
+2026-04-26 19:09:53 before import cv2
+2026-04-26 19:09:54 after import cv2
+2026-04-26 19:09:54 before import numpy
+2026-04-26 19:09:54 after import numpy
+2026-04-26 19:09:54 before import face_recognition
+2026-04-26 19:09:56 after import face_recognition
+2026-04-26 19:09:58 main start
+2026-04-26 19:09:58 stream url resolved http://127.0.0.1:9/stream
+2026-04-26 19:09:58 before download_master_photos_from_cos
+2026-04-26 19:10:03 after download_master_photos_from_cos
+2026-04-26 19:10:03 before load_master_photos directory=E:\OpenHarmony_project\PillBox_codex\深度学习端代码\master_photos
+2026-04-26 19:10:08 after load_master_photos count=5
+2026-04-26 19:10:08 before cv2.namedWindow
+2026-04-26 19:10:09 after cv2.namedWindow
+2026-04-26 19:10:09 after cv2.resizeWindow
+2026-04-26 19:10:09 before open stream http://127.0.0.1:9/stream
+2026-04-26 19:10:11 main end
+launcher python=E:\conda_env\deep_learning\python.exe
+launcher cwd=E:\OpenHarmony_project\PillBox_codex\深度学习端代码
+launcher script=E:\OpenHarmony_project\PillBox_codex\深度学习端代码\face.py
+launcher CONDA_PREFIX=E:\conda_env\deep_learning
+2026-04-26 19:15:42 python=E:\conda_env\deep_learning\python.exe
+2026-04-26 19:15:42 sys.prefix=E:\conda_env\deep_learning
+2026-04-26 19:15:42 CONDA_PREFIX=E:\conda_env\deep_learning
+2026-04-26 19:15:42 dll_dir=E:\conda_env\deep_learning
+2026-04-26 19:15:42 dll_dir=E:\conda_env\deep_learning\Scripts
+2026-04-26 19:15:42 dll_dir=E:\conda_env\deep_learning\Library\bin
+2026-04-26 19:15:42 before import cv2
+2026-04-26 19:15:43 after import cv2
+2026-04-26 19:15:43 before import numpy
+2026-04-26 19:15:43 after import numpy
+2026-04-26 19:15:43 before import face_recognition
+2026-04-26 19:15:45 after import face_recognition
+2026-04-26 19:15:47 main start
+2026-04-26 19:15:47 stream url resolved http://127.0.0.1:9/stream
+2026-04-26 19:15:47 before download_master_photos_from_cos
+2026-04-26 19:15:50 after download_master_photos_from_cos
+2026-04-26 19:15:50 before load_master_photos directory=E:\OpenHarmony_project\PillBox_codex\深度学习端代码\master_photos
+2026-04-26 19:15:56 after load_master_photos count=5
+2026-04-26 19:15:56 before cv2.namedWindow
+2026-04-26 19:15:57 after cv2.namedWindow
+2026-04-26 19:15:57 after cv2.resizeWindow
+2026-04-26 19:15:57 before open stream http://127.0.0.1:9/stream
+2026-04-26 19:15:59 main end
+2026-04-26 19:17:42 python=E:\conda_env\deep_learning\python.exe
+2026-04-26 19:17:42 sys.prefix=E:\conda_env\deep_learning
+2026-04-26 19:17:42 CONDA_PREFIX=E:\conda_env\deep_learning
+2026-04-26 19:17:42 dll_dir=E:\conda_env\deep_learning
+2026-04-26 19:17:42 dll_dir=E:\conda_env\deep_learning\Scripts
+2026-04-26 19:17:42 dll_dir=E:\conda_env\deep_learning\Library\bin
+2026-04-26 19:17:42 before import cv2
+2026-04-26 19:17:42 after import cv2
+2026-04-26 19:17:42 before import numpy
+2026-04-26 19:17:42 after import numpy
+2026-04-26 19:17:42 before import face_recognition
+2026-04-26 19:17:44 after import face_recognition
+2026-04-26 19:17:45 main start
+2026-04-26 19:17:58 stream url resolved http://192.168.132.30:81/stream
+2026-04-26 19:17:58 before download_master_photos_from_cos
+2026-04-26 19:18:02 after download_master_photos_from_cos
+2026-04-26 19:18:02 before load_master_photos directory=E:\OpenHarmony_project\PillBox_codex\深度学习端代码\master_photos
+2026-04-26 19:18:07 after load_master_photos count=5
+2026-04-26 19:18:07 before cv2.namedWindow
+2026-04-26 19:18:08 after cv2.namedWindow
+2026-04-26 19:18:08 after cv2.resizeWindow
+2026-04-26 19:18:08 before open stream http://192.168.132.30:81/stream
+2026-04-26 19:18:18 main end
+2026-04-26 19:22:05 python=E:\conda_env\deep_learning\python.exe
+2026-04-26 19:22:05 sys.prefix=E:\conda_env\deep_learning
+2026-04-26 19:22:05 CONDA_PREFIX=E:\Anaconda3
+2026-04-26 19:22:05 dll_dir=E:\conda_env\deep_learning
+2026-04-26 19:22:05 dll_dir=E:\conda_env\deep_learning\Scripts
+2026-04-26 19:22:05 dll_dir=E:\conda_env\deep_learning\Library\bin
+2026-04-26 19:22:05 before import cv2
+2026-04-26 19:22:06 after import cv2
+2026-04-26 19:22:06 before import numpy
+2026-04-26 19:22:06 after import numpy
+2026-04-26 19:22:06 before import face_recognition
+2026-04-26 19:22:07 after import face_recognition
+2026-04-26 19:22:08 main start
+2026-04-26 19:22:08 stream url resolved http://127.0.0.1:9/stream
+2026-04-26 19:22:08 before download_master_photos_from_cos
+2026-04-26 19:22:11 after download_master_photos_from_cos
+2026-04-26 19:22:11 before load_master_photos directory=E:\OpenHarmony_project\PillBox_codex\深度学习端代码\master_photos
+2026-04-26 19:22:16 after load_master_photos count=5
+2026-04-26 19:22:16 before cv2.namedWindow
+2026-04-26 19:22:17 after cv2.namedWindow
+2026-04-26 19:22:17 after cv2.resizeWindow
+2026-04-26 19:22:17 before open stream http://127.0.0.1:9/stream
+2026-04-26 19:22:19 main end
+2026-04-26 19:22:36 python=E:\conda_env\deep_learning\python.exe
+2026-04-26 19:22:36 sys.prefix=E:\conda_env\deep_learning
+2026-04-26 19:22:36 CONDA_PREFIX=E:\Anaconda3
+2026-04-26 19:22:36 dll_dir=E:\conda_env\deep_learning
+2026-04-26 19:22:36 dll_dir=E:\conda_env\deep_learning\Scripts
+2026-04-26 19:22:36 dll_dir=E:\conda_env\deep_learning\Library\bin
+2026-04-26 19:22:36 before import cv2
+2026-04-26 19:22:37 after import cv2
+2026-04-26 19:22:37 before import numpy
+2026-04-26 19:22:37 after import numpy
+2026-04-26 19:22:37 before import face_recognition
+2026-04-26 19:22:38 after import face_recognition
+2026-04-26 19:22:39 main start
+2026-04-26 19:22:39 stream url resolved http://127.0.0.1:9/stream
+2026-04-26 19:22:39 before download_master_photos_from_cos
+2026-04-26 19:22:43 after download_master_photos_from_cos
+2026-04-26 19:22:43 before load_master_photos directory=E:\OpenHarmony_project\PillBox_codex\深度学习端代码\master_photos
+2026-04-26 19:22:48 after load_master_photos count=5
+2026-04-26 19:22:48 before cv2.namedWindow
+2026-04-26 19:22:48 after cv2.namedWindow
+2026-04-26 19:22:48 after cv2.resizeWindow
+2026-04-26 19:22:48 before open stream http://127.0.0.1:9/stream
+2026-04-26 19:22:50 main end
+2026-04-26 19:24:08 python=E:\conda_env\deep_learning\python.exe
+2026-04-26 19:24:08 sys.prefix=E:\conda_env\deep_learning
+2026-04-26 19:24:08 CONDA_PREFIX=E:\conda_env\deep_learning
+2026-04-26 19:24:08 dll_dir=E:\conda_env\deep_learning
+2026-04-26 19:24:08 dll_dir=E:\conda_env\deep_learning\Scripts
+2026-04-26 19:24:08 dll_dir=E:\conda_env\deep_learning\Library\bin
+2026-04-26 19:24:08 before import cv2
+2026-04-26 19:24:09 after import cv2
+2026-04-26 19:24:09 before import numpy
+2026-04-26 19:24:09 after import numpy
+2026-04-26 19:24:09 before import face_recognition
+2026-04-26 19:24:10 after import face_recognition
+2026-04-26 19:24:11 main start
+2026-04-26 19:24:25 stream url resolved http://192.168.72.30:81/stream
+2026-04-26 19:24:25 before download_master_photos_from_cos
+2026-04-26 19:24:28 after download_master_photos_from_cos
+2026-04-26 19:24:28 before load_master_photos directory=E:\OpenHarmony_project\PillBox_codex\深度学习端代码\master_photos
+2026-04-26 19:24:33 after load_master_photos count=5
+2026-04-26 19:24:33 before cv2.namedWindow
+2026-04-26 19:24:34 after cv2.namedWindow
+2026-04-26 19:24:34 after cv2.resizeWindow
+2026-04-26 19:24:34 before open stream http://192.168.72.30:81/stream
+2026-04-26 19:24:34 after open stream status=200
+2026-04-26 19:24:35 yield first decoded frame
+2026-04-26 19:25:04 main end
+2026-04-26 19:42:53 python=E:\conda_env\deep_learning\python.exe
+2026-04-26 19:42:53 sys.prefix=E:\conda_env\deep_learning
+2026-04-26 19:42:53 CONDA_PREFIX=E:\conda_env\deep_learning
+2026-04-26 19:42:53 dll_dir=E:\conda_env\deep_learning
+2026-04-26 19:42:53 dll_dir=E:\conda_env\deep_learning\Scripts
+2026-04-26 19:42:53 dll_dir=E:\conda_env\deep_learning\Library\bin
+2026-04-26 19:42:53 before import cv2
+2026-04-26 19:42:53 after import cv2
+2026-04-26 19:42:53 before import numpy
+2026-04-26 19:42:53 after import numpy
+2026-04-26 19:42:53 before import face_recognition
+2026-04-26 19:42:56 after import face_recognition
+2026-04-26 19:42:58 main start
+2026-04-26 19:43:14 stream url resolved http://192.168.132.30:81/stream
+2026-04-26 19:43:14 before download_master_photos_from_cos
+2026-04-26 19:43:19 after download_master_photos_from_cos
+2026-04-26 19:43:19 before load_master_photos directory=E:\OpenHarmony_project\PillBox_codex\深度学习端代码\master_photos
+2026-04-26 19:43:24 after load_master_photos count=5
+2026-04-26 19:43:24 before cv2.namedWindow
+2026-04-26 19:43:25 after cv2.namedWindow
+2026-04-26 19:43:25 after cv2.resizeWindow
+2026-04-26 19:43:25 before open stream http://192.168.132.30:81/stream
+2026-04-26 19:43:30 before open stream http://192.168.132.30:81/stream
+2026-04-26 19:43:35 before open stream http://192.168.132.30:81/stream
+2026-04-26 19:43:40 before open stream http://192.168.132.30:81/stream
+2026-04-26 19:43:45 before open stream http://192.168.132.30:81/stream
+2026-04-26 19:43:50 before open stream http://192.168.132.30:81/stream
+2026-04-26 19:43:55 before open stream http://192.168.132.30:81/stream
+2026-04-26 19:44:00 before open stream http://192.168.132.30:81/stream
+2026-04-26 19:44:05 before open stream http://192.168.132.30:81/stream
+2026-04-26 19:44:10 before open stream http://192.168.132.30:81/stream
+2026-04-26 19:44:15 before open stream http://192.168.132.30:81/stream
+2026-04-26 19:44:20 before open stream http://192.168.132.30:81/stream
+2026-04-26 19:44:25 before open stream http://192.168.132.30:81/stream
+2026-04-26 19:44:30 before open stream http://192.168.132.30:81/stream
+2026-04-26 19:44:35 before open stream http://192.168.132.30:81/stream
+2026-04-26 19:44:40 before open stream http://192.168.132.30:81/stream
+2026-04-26 19:44:45 before open stream http://192.168.132.30:81/stream
+2026-04-26 19:44:50 before open stream http://192.168.132.30:81/stream
+2026-04-26 19:44:55 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:04:26 python=E:\conda_env\deep_learning\python.exe
+2026-04-26 20:04:26 sys.prefix=E:\conda_env\deep_learning
+2026-04-26 20:04:26 CONDA_PREFIX=E:\conda_env\deep_learning
+2026-04-26 20:04:26 dll_dir=E:\conda_env\deep_learning
+2026-04-26 20:04:26 dll_dir=E:\conda_env\deep_learning\Scripts
+2026-04-26 20:04:26 dll_dir=E:\conda_env\deep_learning\Library\bin
+2026-04-26 20:04:26 before import cv2
+2026-04-26 20:04:27 after import cv2
+2026-04-26 20:04:27 before import numpy
+2026-04-26 20:04:27 after import numpy
+2026-04-26 20:04:27 before import face_recognition
+2026-04-26 20:04:29 after import face_recognition
+2026-04-26 20:04:30 main start
+2026-04-26 20:04:45 stream url resolved http://192.168.132.30:81/stream
+2026-04-26 20:04:45 before download_master_photos_from_cos
+2026-04-26 20:04:51 after download_master_photos_from_cos
+2026-04-26 20:04:51 before load_master_photos directory=E:\OpenHarmony_project\PillBox_codex\深度学习端代码\master_photos
+2026-04-26 20:04:57 after load_master_photos count=5
+2026-04-26 20:04:57 before cv2.namedWindow
+2026-04-26 20:04:59 after cv2.namedWindow
+2026-04-26 20:04:59 after cv2.resizeWindow
+2026-04-26 20:04:59 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:05:04 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:05:09 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:05:14 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:05:19 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:05:24 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:05:29 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:05:34 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:05:39 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:05:44 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:05:49 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:05:54 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:05:59 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:06:04 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:06:09 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:06:14 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:06:19 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:06:24 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:06:29 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:06:34 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:06:39 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:06:44 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:06:49 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:06:54 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:06:59 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:07:04 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:07:09 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:07:14 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:07:19 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:07:24 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:07:29 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:07:34 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:07:39 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:07:44 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:07:49 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:07:54 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:07:59 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:08:04 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:08:09 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:08:14 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:08:19 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:08:24 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:08:29 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:08:34 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:08:39 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:08:44 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:12:30 python=E:\conda_env\deep_learning\python.exe
+2026-04-26 20:12:30 sys.prefix=E:\conda_env\deep_learning
+2026-04-26 20:12:30 CONDA_PREFIX=E:\conda_env\deep_learning
+2026-04-26 20:12:30 dll_dir=E:\conda_env\deep_learning
+2026-04-26 20:12:30 dll_dir=E:\conda_env\deep_learning\Scripts
+2026-04-26 20:12:30 dll_dir=E:\conda_env\deep_learning\Library\bin
+2026-04-26 20:12:30 before import cv2
+2026-04-26 20:12:30 after import cv2
+2026-04-26 20:12:30 before import numpy
+2026-04-26 20:12:30 after import numpy
+2026-04-26 20:12:30 before import face_recognition
+2026-04-26 20:12:32 after import face_recognition
+2026-04-26 20:12:33 main start
+2026-04-26 20:12:48 stream url resolved http://192.168.132.30:81/stream
+2026-04-26 20:12:48 before download_master_photos_from_cos
+2026-04-26 20:12:52 after download_master_photos_from_cos
+2026-04-26 20:12:52 before load_master_photos directory=E:\OpenHarmony_project\PillBox_codex\深度学习端代码\master_photos
+2026-04-26 20:12:57 after load_master_photos count=5
+2026-04-26 20:12:57 before cv2.namedWindow
+2026-04-26 20:12:58 after cv2.namedWindow
+2026-04-26 20:12:58 after cv2.resizeWindow
+2026-04-26 20:12:58 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:13:03 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:13:09 before open stream http://192.168.132.30:81/stream
+2026-04-26 20:21:57 python=E:\conda_env\deep_learning\python.exe
+2026-04-26 20:21:57 sys.prefix=E:\conda_env\deep_learning
+2026-04-26 20:21:57 CONDA_PREFIX=E:\conda_env\deep_learning
+2026-04-26 20:21:57 dll_dir=E:\conda_env\deep_learning
+2026-04-26 20:21:57 dll_dir=E:\conda_env\deep_learning\Scripts
+2026-04-26 20:21:57 dll_dir=E:\conda_env\deep_learning\Library\bin
+2026-04-26 20:21:57 before import cv2
+2026-04-26 20:21:57 after import cv2
+2026-04-26 20:21:57 before import numpy
+2026-04-26 20:21:57 after import numpy
+2026-04-26 20:21:57 before import face_recognition
+2026-04-26 20:21:59 after import face_recognition
+2026-04-26 20:22:00 main start
+2026-04-26 20:22:00 stream url resolved http://192.168.72.30:81/stream
+2026-04-26 20:22:00 before download_master_photos_from_cos
+2026-04-26 20:22:03 after download_master_photos_from_cos
+2026-04-26 20:22:03 before load_master_photos directory=E:\OpenHarmony_project\PillBox_codex\深度学习端代码\master_photos
+2026-04-26 20:22:08 after load_master_photos count=5
+2026-04-26 20:22:08 before cv2.namedWindow
+2026-04-26 20:22:10 after cv2.namedWindow
+2026-04-26 20:22:10 after cv2.resizeWindow
+2026-04-26 20:22:10 before open stream http://192.168.72.30:81/stream
+2026-04-26 20:22:10 after open stream status=200
+2026-04-26 20:22:10 yield first mjpeg decoded frame, shape=(120, 160, 3)
+2026-04-26 20:22:12 python=E:\conda_env\deep_learning\python.exe
+2026-04-26 20:22:12 sys.prefix=E:\conda_env\deep_learning
+2026-04-26 20:22:12 CONDA_PREFIX=E:\Anaconda3
+2026-04-26 20:22:12 dll_dir=E:\conda_env\deep_learning
+2026-04-26 20:22:12 dll_dir=E:\conda_env\deep_learning\Scripts
+2026-04-26 20:22:12 dll_dir=E:\conda_env\deep_learning\Library\bin
+2026-04-26 20:22:12 before import cv2
+2026-04-26 20:22:13 after import cv2
+2026-04-26 20:22:13 before import numpy
+2026-04-26 20:22:13 after import numpy
+2026-04-26 20:22:13 before import face_recognition
+2026-04-26 20:22:14 after import face_recognition
+2026-04-26 20:24:00 python=E:\conda_env\deep_learning\python.exe
+2026-04-26 20:24:00 sys.prefix=E:\conda_env\deep_learning
+2026-04-26 20:24:00 CONDA_PREFIX=E:\Anaconda3
+2026-04-26 20:24:00 dll_dir=E:\conda_env\deep_learning
+2026-04-26 20:24:00 dll_dir=E:\conda_env\deep_learning\Scripts
+2026-04-26 20:24:00 dll_dir=E:\conda_env\deep_learning\Library\bin
+2026-04-26 20:24:00 before import cv2
+2026-04-26 20:24:01 after import cv2
+2026-04-26 20:24:01 before import numpy
+2026-04-26 20:24:01 after import numpy
+2026-04-26 20:24:01 before import face_recognition
+2026-04-26 20:24:02 after import face_recognition
+2026-04-26 20:24:03 jpg fallback urls=['http://192.168.72.30/capture', 'http://192.168.72.30/jpg', 'http://192.168.72.30:81/jpg', 'http://192.168.72.30:81/capture']
+2026-04-26 20:24:03 yield first jpg fallback frame from http://192.168.72.30/capture, shape=(120, 160, 3)
+2026-04-26 20:25:37 python=E:\conda_env\deep_learning\python.exe
+2026-04-26 20:25:37 sys.prefix=E:\conda_env\deep_learning
+2026-04-26 20:25:37 CONDA_PREFIX=E:\Anaconda3
+2026-04-26 20:25:37 dll_dir=E:\conda_env\deep_learning
+2026-04-26 20:25:37 dll_dir=E:\conda_env\deep_learning\Scripts
+2026-04-26 20:25:37 dll_dir=E:\conda_env\deep_learning\Library\bin
+2026-04-26 20:25:37 before import cv2
+2026-04-26 20:25:37 after import cv2
+2026-04-26 20:25:37 before import numpy
+2026-04-26 20:25:37 after import numpy
+2026-04-26 20:25:37 before import face_recognition
+2026-04-26 20:25:39 after import face_recognition
+2026-04-26 20:28:20 python=E:\conda_env\deep_learning\python.exe
+2026-04-26 20:28:20 sys.prefix=E:\conda_env\deep_learning
+2026-04-26 20:28:20 CONDA_PREFIX=E:\Anaconda3
+2026-04-26 20:28:20 dll_dir=E:\conda_env\deep_learning
+2026-04-26 20:28:20 dll_dir=E:\conda_env\deep_learning\Scripts
+2026-04-26 20:28:20 dll_dir=E:\conda_env\deep_learning\Library\bin
+2026-04-26 20:28:20 before import cv2
+2026-04-26 20:28:21 after import cv2
+2026-04-26 20:28:21 before import numpy
+2026-04-26 20:28:21 after import numpy
+2026-04-26 20:28:21 before import face_recognition
+2026-04-26 20:28:22 after import face_recognition
+2026-04-26 20:28:23 jpg fallback urls=['http://192.168.72.30/capture', 'http://192.168.72.30/jpg', 'http://192.168.72.30:81/jpg', 'http://192.168.72.30:81/capture']
+2026-04-26 22:00:01 python=E:\conda_env\deep_learning\python.exe
+2026-04-26 22:00:01 sys.prefix=E:\conda_env\deep_learning
+2026-04-26 22:00:01 CONDA_PREFIX=E:\conda_env\deep_learning
+2026-04-26 22:00:01 dll_dir=E:\conda_env\deep_learning
+2026-04-26 22:00:01 dll_dir=E:\conda_env\deep_learning\Scripts
+2026-04-26 22:00:01 dll_dir=E:\conda_env\deep_learning\Library\bin
+2026-04-26 22:00:01 before import cv2
+2026-04-26 22:00:02 after import cv2
+2026-04-26 22:00:02 before import numpy
+2026-04-26 22:00:02 after import numpy
+2026-04-26 22:00:02 before import face_recognition
+2026-04-26 22:00:04 after import face_recognition
+2026-04-26 22:00:06 main start
+2026-04-26 22:05:52 python=E:\conda_env\deep_learning\python.exe
+2026-04-26 22:05:52 sys.prefix=E:\conda_env\deep_learning
+2026-04-26 22:05:52 CONDA_PREFIX=E:\conda_env\deep_learning
+2026-04-26 22:05:52 dll_dir=E:\conda_env\deep_learning
+2026-04-26 22:05:52 dll_dir=E:\conda_env\deep_learning\Scripts
+2026-04-26 22:05:52 dll_dir=E:\conda_env\deep_learning\Library\bin
+2026-04-26 22:05:52 before import cv2
+2026-04-26 22:05:53 after import cv2
+2026-04-26 22:05:53 before import numpy
+2026-04-26 22:05:53 after import numpy
+2026-04-26 22:05:53 before import face_recognition
+2026-04-26 22:05:55 after import face_recognition
+2026-04-26 22:05:56 main start
+2026-04-26 22:05:56 stream url resolved http://192.168.72.30:81/stream
+2026-04-26 22:05:56 before download_master_photos_from_cos
+2026-04-26 22:06:00 after download_master_photos_from_cos
+2026-04-26 22:06:00 before load_master_photos directory=E:\OpenHarmony_project\PillBox_codex\深度学习端代码\master_photos
+2026-04-26 22:06:07 after load_master_photos count=5
+2026-04-26 22:06:07 before cv2.namedWindow
+2026-04-26 22:06:08 after cv2.namedWindow
+2026-04-26 22:06:08 after cv2.resizeWindow
+2026-04-26 22:06:08 jpg fallback urls=['http://192.168.72.30/capture', 'http://192.168.72.30/jpg', 'http://192.168.72.30:81/jpg', 'http://192.168.72.30:81/capture']
+2026-04-26 22:06:08 yield first jpg fallback frame from http://192.168.72.30/jpg, shape=(240, 320, 3)
+2026-04-26 22:12:48 python=E:\conda_env\deep_learning\python.exe
+2026-04-26 22:12:48 sys.prefix=E:\conda_env\deep_learning
+2026-04-26 22:12:48 CONDA_PREFIX=E:\Anaconda3
+2026-04-26 22:12:48 dll_dir=E:\conda_env\deep_learning
+2026-04-26 22:12:48 dll_dir=E:\conda_env\deep_learning\Scripts
+2026-04-26 22:12:48 dll_dir=E:\conda_env\deep_learning\Library\bin
+2026-04-26 22:12:48 before import cv2
+2026-04-26 22:12:48 after import cv2
+2026-04-26 22:12:48 before import numpy
+2026-04-26 22:12:48 after import numpy
+2026-04-26 22:12:48 before import face_recognition
+2026-04-26 22:12:50 after import face_recognition
+2026-04-26 22:13:59 python=E:\conda_env\deep_learning\python.exe
+2026-04-26 22:13:59 sys.prefix=E:\conda_env\deep_learning
+2026-04-26 22:13:59 CONDA_PREFIX=E:\Anaconda3
+2026-04-26 22:14:00 dll_dir=E:\conda_env\deep_learning
+2026-04-26 22:14:00 dll_dir=E:\conda_env\deep_learning\Scripts
+2026-04-26 22:14:00 dll_dir=E:\conda_env\deep_learning\Library\bin
+2026-04-26 22:14:00 before import cv2
+2026-04-26 22:14:00 after import cv2
+2026-04-26 22:14:00 before import numpy
+2026-04-26 22:14:00 after import numpy
+2026-04-26 22:14:00 before import face_recognition
+2026-04-26 22:14:01 after import face_recognition
+2026-04-26 22:14:02 before load_master_photos directory=E:\OpenHarmony_project\PillBox_codex\深度学习端代码\master_photos
+2026-04-26 22:14:08 after load_master_photos count=5
+2026-04-26 22:15:18 python=E:\conda_env\deep_learning\python.exe
+2026-04-26 22:15:18 sys.prefix=E:\conda_env\deep_learning
+2026-04-26 22:15:18 CONDA_PREFIX=E:\Anaconda3
+2026-04-26 22:15:18 dll_dir=E:\conda_env\deep_learning
+2026-04-26 22:15:18 dll_dir=E:\conda_env\deep_learning\Scripts
+2026-04-26 22:15:18 dll_dir=E:\conda_env\deep_learning\Library\bin
+2026-04-26 22:15:18 before import cv2
+2026-04-26 22:15:18 after import cv2
+2026-04-26 22:15:18 before import numpy
+2026-04-26 22:15:18 after import numpy
+2026-04-26 22:15:18 before import face_recognition
+2026-04-26 22:15:20 after import face_recognition
+2026-04-26 22:15:21 before load_master_photos directory=E:\OpenHarmony_project\PillBox_codex\深度学习端代码\master_photos
+2026-04-26 22:15:28 after load_master_photos count=5
+2026-04-26 22:17:00 python=E:\conda_env\deep_learning\python.exe
+2026-04-26 22:17:00 sys.prefix=E:\conda_env\deep_learning
+2026-04-26 22:17:00 CONDA_PREFIX=E:\conda_env\deep_learning
+2026-04-26 22:17:00 dll_dir=E:\conda_env\deep_learning
+2026-04-26 22:17:00 dll_dir=E:\conda_env\deep_learning\Scripts
+2026-04-26 22:17:00 dll_dir=E:\conda_env\deep_learning\Library\bin
+2026-04-26 22:17:00 before import cv2
+2026-04-26 22:17:00 after import cv2
+2026-04-26 22:17:00 before import numpy
+2026-04-26 22:17:00 after import numpy
+2026-04-26 22:17:00 before import face_recognition
+2026-04-26 22:17:02 after import face_recognition
+2026-04-26 22:17:03 main start
+2026-04-26 22:17:03 stream url resolved http://192.168.72.30:81/stream
+2026-04-26 22:17:03 before download_master_photos_from_cos
+2026-04-26 22:17:06 after download_master_photos_from_cos
+2026-04-26 22:17:06 before load_master_photos directory=E:\OpenHarmony_project\PillBox_codex\深度学习端代码\master_photos
+2026-04-26 22:17:08 python=E:\conda_env\deep_learning\python.exe
+2026-04-26 22:17:08 sys.prefix=E:\conda_env\deep_learning
+2026-04-26 22:17:08 CONDA_PREFIX=E:\Anaconda3
+2026-04-26 22:17:08 dll_dir=E:\conda_env\deep_learning
+2026-04-26 22:17:08 dll_dir=E:\conda_env\deep_learning\Scripts
+2026-04-26 22:17:08 dll_dir=E:\conda_env\deep_learning\Library\bin
+2026-04-26 22:17:08 before import cv2
+2026-04-26 22:17:09 after import cv2
+2026-04-26 22:17:09 before import numpy
+2026-04-26 22:17:09 after import numpy
+2026-04-26 22:17:09 before import face_recognition
+2026-04-26 22:17:10 after import face_recognition
+2026-04-26 22:17:11 after load_master_photos count=5
+2026-04-26 22:17:11 before cv2.namedWindow
+2026-04-26 22:17:12 after cv2.namedWindow
+2026-04-26 22:17:12 after cv2.resizeWindow
+2026-04-26 22:17:12 before open stream http://192.168.72.30:81/stream
+2026-04-26 22:17:12 after open stream status=200
+2026-04-26 22:17:12 yield first mjpeg decoded frame, shape=(240, 320, 3)
+2026-04-26 22:17:16 before open_nearest_cabinet names=['1761220649419']
+2026-04-26 22:17:18 after open_nearest_cabinet servo_id=1
+2026-04-26 22:17:46 python=E:\conda_env\deep_learning\python.exe
+2026-04-26 22:17:46 sys.prefix=E:\conda_env\deep_learning
+2026-04-26 22:17:46 CONDA_PREFIX=E:\Anaconda3
+2026-04-26 22:17:46 dll_dir=E:\conda_env\deep_learning
+2026-04-26 22:17:46 dll_dir=E:\conda_env\deep_learning\Scripts
+2026-04-26 22:17:46 dll_dir=E:\conda_env\deep_learning\Library\bin
+2026-04-26 22:17:46 before import cv2
+2026-04-26 22:17:46 after import cv2
+2026-04-26 22:17:46 before import numpy
+2026-04-26 22:17:46 after import numpy
+2026-04-26 22:17:46 before import face_recognition
+2026-04-26 22:17:47 after import face_recognition
+2026-04-26 22:18:39 python=E:\conda_env\deep_learning\python.exe
+2026-04-26 22:18:39 sys.prefix=E:\conda_env\deep_learning
+2026-04-26 22:18:39 CONDA_PREFIX=
+2026-04-26 22:18:39 dll_dir=E:\conda_env\deep_learning
+2026-04-26 22:18:39 dll_dir=E:\conda_env\deep_learning\Scripts
+2026-04-26 22:18:39 dll_dir=E:\conda_env\deep_learning\Library\bin
+2026-04-26 22:18:39 before import cv2
+2026-04-26 22:18:39 after import cv2
+2026-04-26 22:18:39 before import numpy
+2026-04-26 22:18:39 after import numpy
+2026-04-26 22:18:39 before import face_recognition
+2026-04-26 22:18:41 after import face_recognition
+2026-04-26 22:18:54 python=E:\conda_env\deep_learning\python.exe
+2026-04-26 22:18:54 sys.prefix=E:\conda_env\deep_learning
+2026-04-26 22:18:54 CONDA_PREFIX=
+2026-04-26 22:18:54 dll_dir=E:\conda_env\deep_learning
+2026-04-26 22:18:54 dll_dir=E:\conda_env\deep_learning\Scripts
+2026-04-26 22:18:54 dll_dir=E:\conda_env\deep_learning\Library\bin
+2026-04-26 22:18:54 before import cv2
+2026-04-26 22:18:54 after import cv2
+2026-04-26 22:18:54 before import numpy
+2026-04-26 22:18:54 after import numpy
+2026-04-26 22:18:54 before import face_recognition
+2026-04-26 22:18:55 after import face_recognition
+2026-04-27 15:26:12 python=E:\conda_env\deep_learning\python.exe
+2026-04-27 15:26:12 sys.prefix=E:\conda_env\deep_learning
+2026-04-27 15:26:12 CONDA_PREFIX=E:\conda_env\deep_learning
+2026-04-27 15:26:12 dll_dir=E:\conda_env\deep_learning
+2026-04-27 15:26:12 dll_dir=E:\conda_env\deep_learning\Scripts
+2026-04-27 15:26:12 dll_dir=E:\conda_env\deep_learning\Library\bin
+2026-04-27 15:26:12 before import cv2
+2026-04-27 15:26:16 after import cv2
+2026-04-27 15:26:16 before import numpy
+2026-04-27 15:26:16 after import numpy
+2026-04-27 15:26:16 before import face_recognition
+2026-04-27 15:26:18 after import face_recognition
+2026-04-27 15:26:20 main start
+2026-04-27 15:27:19 python=E:\conda_env\deep_learning\python.exe
+2026-04-27 15:27:19 sys.prefix=E:\conda_env\deep_learning
+2026-04-27 15:27:19 CONDA_PREFIX=E:\conda_env\deep_learning
+2026-04-27 15:27:19 dll_dir=E:\conda_env\deep_learning
+2026-04-27 15:27:19 dll_dir=E:\conda_env\deep_learning\Scripts
+2026-04-27 15:27:19 dll_dir=E:\conda_env\deep_learning\Library\bin
+2026-04-27 15:27:19 before import cv2
+2026-04-27 15:27:20 after import cv2
+2026-04-27 15:27:20 before import numpy
+2026-04-27 15:27:20 after import numpy
+2026-04-27 15:27:20 before import face_recognition
+2026-04-27 15:27:21 after import face_recognition
+2026-04-27 15:27:23 main start
+2026-04-27 15:29:01 python=E:\conda_env\deep_learning\python.exe
+2026-04-27 15:29:01 sys.prefix=E:\conda_env\deep_learning
+2026-04-27 15:29:01 CONDA_PREFIX=E:\conda_env\deep_learning
+2026-04-27 15:29:01 dll_dir=E:\conda_env\deep_learning
+2026-04-27 15:29:01 dll_dir=E:\conda_env\deep_learning\Scripts
+2026-04-27 15:29:01 dll_dir=E:\conda_env\deep_learning\Library\bin
+2026-04-27 15:29:01 before import cv2
+2026-04-27 15:29:01 after import cv2
+2026-04-27 15:29:01 before import numpy
+2026-04-27 15:29:01 after import numpy
+2026-04-27 15:29:01 before import face_recognition
+2026-04-27 15:29:03 after import face_recognition
+2026-04-27 15:29:04 main start
+2026-04-27 15:29:23 python=E:\conda_env\deep_learning\python.exe
+2026-04-27 15:29:23 sys.prefix=E:\conda_env\deep_learning
+2026-04-27 15:29:23 CONDA_PREFIX=E:\conda_env\deep_learning
+2026-04-27 15:29:23 dll_dir=E:\conda_env\deep_learning
+2026-04-27 15:29:23 dll_dir=E:\conda_env\deep_learning\Scripts
+2026-04-27 15:29:23 dll_dir=E:\conda_env\deep_learning\Library\bin
+2026-04-27 15:29:23 before import cv2
+2026-04-27 15:29:24 after import cv2
+2026-04-27 15:29:24 before import numpy
+2026-04-27 15:29:24 after import numpy
+2026-04-27 15:29:24 before import face_recognition
+2026-04-27 15:29:25 after import face_recognition
+2026-04-27 15:29:26 main start
+2026-04-27 15:29:40 stream url resolved http://pillbox-cam.local:81/stream
+2026-04-27 15:29:40 before download_master_photos_from_cos
+2026-04-27 15:29:45 after download_master_photos_from_cos
+2026-04-27 15:29:45 before load_master_photos directory=E:\OpenHarmony_project\PillBox_codex\深度学习端代码\master_photos
+2026-04-27 15:29:51 after load_master_photos count=5
+2026-04-27 15:29:51 before cv2.namedWindow
+2026-04-27 15:29:53 after cv2.namedWindow
+2026-04-27 15:29:53 after cv2.resizeWindow
+2026-04-27 15:29:53 before open stream http://pillbox-cam.local:81/stream
+2026-04-27 15:30:01 after open stream status=200
+2026-04-27 15:30:01 yield first mjpeg decoded frame, shape=(240, 320, 3)
+2026-04-27 15:30:08 before open_nearest_cabinet names=['1760163150890']
+2026-04-27 15:30:10 after open_nearest_cabinet servo_id=1
+2026-04-27 16:26:59 before open stream http://pillbox-cam.local:81/stream
+2026-04-27 16:27:07 after open stream status=200
+2026-04-27 16:27:08 yield first mjpeg decoded frame, shape=(240, 320, 3)
+2026-04-27 17:46:28 python=E:\conda_env\deep_learning\python.exe
+2026-04-27 17:46:28 sys.prefix=E:\conda_env\deep_learning
+2026-04-27 17:46:28 CONDA_PREFIX=E:\Anaconda3
+2026-04-27 17:46:28 dll_dir=E:\conda_env\deep_learning
+2026-04-27 17:46:28 dll_dir=E:\conda_env\deep_learning\Scripts
+2026-04-27 17:46:28 dll_dir=E:\conda_env\deep_learning\Library\bin
+2026-04-27 17:46:28 before import cv2
+2026-04-27 17:46:31 after import cv2
+2026-04-27 17:46:31 before import numpy
+2026-04-27 17:46:31 after import numpy
+2026-04-27 17:46:31 before import face_recognition
+2026-04-27 17:46:35 after import face_recognition

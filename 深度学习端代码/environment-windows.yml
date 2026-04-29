@@ -1,0 +1,16 @@
+name: deep_learning
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - dlib
+  - face_recognition
+  - opencv
+  - requests
+  - pyserial
+  - pip
+  - pip:
+      - cos-python-sdk-v5
+      - huaweicloudsdkcore
+      - huaweicloudsdkiotda

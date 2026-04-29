@@ -1,0 +1,1 @@
+http://pillbox-cam.local:81/stream

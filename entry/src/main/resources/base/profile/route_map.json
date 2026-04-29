@@ -1,0 +1,76 @@
+{
+  "routerMap": [
+    {
+      "name": "Start",
+      "pageSourceFile": "src/main/ets/pages/Start.ets",
+      "buildFunction": "StartBuilder",
+      "data": {
+        "description" : "this is Start"
+      }
+    },
+    {
+      "name": "Home",
+      "pageSourceFile": "src/main/ets/pages/Home.ets",
+      "buildFunction": "HomeBuilder",
+      "data": {
+        "description": "this is Home"
+      }
+    },
+    {
+      "name": "Daojishi",
+      "pageSourceFile": "src/main/ets/pages/Daojishi.ets",
+      "buildFunction": "DaojishiBuilder",
+      "data": {
+        "description": "this is Daojishi"
+      }
+    },
+    {
+      "name": "Naozhong",
+      "pageSourceFile": "src/main/ets/pages/Naozhong.ets",
+      "buildFunction": "NaozhongBuilder",
+      "data": {
+        "description": "this is Naozhong"
+      }
+    },
+    {
+      "name": "Regist",
+      "pageSourceFile": "src/main/ets/pages/Regist.ets",
+      "buildFunction": "RegisterBuilder",
+      "data": {
+        "description" : "this is Register"
+      }
+    },
+    {
+      "name": "Aibot",
+      "pageSourceFile": "src/main/ets/pages/Aibot.ets",
+      "buildFunction": "AibotBuilder",
+      "data": {
+        "description" : "this is Aibot"
+      }
+    },
+    {
+      "name": "Record",
+      "pageSourceFile": "src/main/ets/pages/Record.ets",
+      "buildFunction": "RecordBuilder",
+      "data": {
+        "description" : "this is Record"
+      }
+    },
+    {
+      "name": "Analyzepill",
+      "pageSourceFile": "src/main/ets/pages/Analyzepill.ets",
+      "buildFunction": "AnalyzepillBuilder",
+      "data": {
+        "description" : "this is Analyzepill"
+      }
+    },
+    {
+      "name": "SmartPillboxManager",
+      "pageSourceFile": "src/main/ets/pages/SmartPillboxManager.ets",
+      "buildFunction": "SmartPillboxManagerBuilder",
+      "data": {
+        "description" : "this is SmartPillboxManager"
+      }
+    }
+  ]
+}

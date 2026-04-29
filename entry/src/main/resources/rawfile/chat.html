@@ -1,0 +1,44 @@
+
+</script>
+
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>聊天助手</title>
+    <script src="https://lf-cdn.coze.cn/obj/unpkg/flow-platform/chat-app-sdk/1.1.0-beta.0/libs/cn/index.js"></script>
+</head>
+<body>
+    <script>
+        const cozeWebSDK = new CozeWebSDK.WebChatClient({
+            config:{
+                botId:"7631015915148820480",
+            },
+            auth:{
+                type:'token',
+                token:'sat_LeDY8iu23Ifcb2UwY7LXfZeL0HhoF4NTswQmlooFVJyRJNd7ExEk9gFogjnRPbPl',
+                onRefreshToken:()=>'sat_LeDY8iu23Ifcb2UwY7LXfZeL0HhoF4NTswQmlooFVJyRJNd7ExEk9gFogjnRPbPl',
+            },
+             ui: {
+                base: {
+                  icon: 'https://lf-coze-web-cdn.coze.cn/obj/eden-cn/lm-lgvj/ljhwZthlaukjlkulzlp/coze/chatsdk-logo.png',
+                  layout: 'pc',        // 可选 'pc' 或 'mobile'
+                  lang: 'zh-CN',       // 改为中文（你原配置是 'en'，这里按常见需求改为中文）
+                  zIndex: 1000
+                },
+                header: {
+                  isShow: true,
+                  isNeedClose: true,
+                },
+                footer: {
+                  isShow: true,
+                  expressionText: 'Powered by Coze',
+                },
+                chatBot: {
+                  title: 'Coze Bot',
+                  uploadable: true,
+                  width: 350, // 控制弹窗宽度（单位 px）
+                },
+             },
+        })
+    </script>
+</body>

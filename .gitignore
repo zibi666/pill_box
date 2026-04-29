@@ -1,0 +1,43 @@
+/node_modules
+/oh_modules
+/local.properties
+/.idea
+**/build
+/.hvigor
+.cxx
+/.clangd
+/.clang-format
+/.clang-tidy
+**/.test
+/.appanalyzer.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Temporary extracted files
+_tmp_main_zip/
+
+# Local secret files
+.env
+*.env
+application-local.properties
+
+
+# 不提交 EDOG 项目
+EDOG/EDOG/
+
+
+
+# IDE / 系统文件
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secret files
+entry/src/main/ets/components/credential.ets
+深度学习端代码/face.py
+login-code/login_test/src/main/resources/application.properties

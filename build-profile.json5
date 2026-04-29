@@ -1,0 +1,56 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "C:\\Users\\zibi\\.ohos\\config\\default_PillBox_8d34IJLeC3XJJeEonGbph08bNk76tITfI3eeDpgAazo=.cer",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001B90E062F1985A222718FF04E86A7BBE2A3B4A85B51975D76899C381D782F6B5FAFC5E54139D251B",
+          "profile": "C:\\Users\\zibi\\.ohos\\config\\default_PillBox_8d34IJLeC3XJJeEonGbph08bNk76tITfI3eeDpgAazo=.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\zibi\\.ohos\\config\\default_PillBox_8d34IJLeC3XJJeEonGbph08bNk76tITfI3eeDpgAazo=.p12",
+          "storePassword": "0000001B72B6C5717908C405F8E40DCF55A854DC554968ED0C38DC17F7E4CF8887142BC6E0A54F6068B9F3"
+        }
+      }
+    ],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "targetSdkVersion": "5.0.5(17)",
+        "compatibleSdkVersion": "5.0.5(17)",
+        "runtimeOS": "HarmonyOS",
+        "buildOption": {
+          "strictMode": {
+            "caseSensitiveCheck": true,
+            "useNormalizedOHMUrl": true
+          }
+        }
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug",
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}
